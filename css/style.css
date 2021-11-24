@@ -1,0 +1,25 @@
+*
+{
+margin:0 ;
+padding:0 ;
+box-sizing: border-box;
+}
+/*head*/
+
+.navbar{
+  background-color: rgb(87, 177, 122);
+  height: 40px;
+  background-image:initial ;
+  position:absolute ;
+}
+
+/*body*/
+.body{
+  background-color: rgb(192, 192, 192);
+
+}
+
+/*foot*/
+.footer {
+  background-color: rgb(133, 131, 131);
+}
